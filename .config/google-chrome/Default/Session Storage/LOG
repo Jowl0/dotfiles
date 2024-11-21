@@ -1,0 +1,28 @@
+2024/11/17-21:23:36.383 4 Reusing MANIFEST /home/jwl/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/11/17-21:23:36.384 4 Recovering log #3
+2024/11/17-21:23:36.388 4 Level-0 table #3: started
+2024/11/17-21:23:36.397 4 Level-0 table #3: 301558 bytes OK
+2024/11/17-21:23:36.398 4 Recovering log #4
+2024/11/17-21:23:36.398 4 Reusing old log /home/jwl/.config/google-chrome/Default/Session Storage/000004.log 
+2024/11/17-21:23:36.409 4 Delete type=0 #3
+2024/11/17-21:23:36.409 4 Delete type=2 #5
+2024/11/17-21:26:44.371 4 Level-0 table #6: started
+2024/11/17-21:26:44.388 4 Level-0 table #6: 298098 bytes OK
+2024/11/17-21:26:44.397 4 Delete type=0 #4
+2024/11/17-21:28:20.198 5 Level-0 table #8: started
+2024/11/17-21:28:20.214 5 Level-0 table #8: 297096 bytes OK
+2024/11/17-21:28:20.231 5 Delete type=0 #5
+2024/11/17-21:28:39.571 5 Level-0 table #10: started
+2024/11/17-21:28:39.587 5 Level-0 table #10: 303687 bytes OK
+2024/11/17-21:28:39.594 5 Delete type=0 #7
+2024/11/17-21:28:39.595 5 Compacting 4@0 + 0@1 files
+2024/11/17-21:28:39.609 5 Generated table #11@0: 89 keys, 832906 bytes
+2024/11/17-21:28:39.609 5 Compacted 4@0 + 0@1 files => 832906 bytes
+2024/11/17-21:28:39.616 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/17-21:28:39.618 5 Delete type=2 #10
+2024/11/17-21:28:39.618 5 Delete type=2 #6
+2024/11/17-21:28:39.618 5 Delete type=2 #3
+2024/11/17-21:28:39.618 5 Delete type=2 #8
+2024/11/17-21:28:44.404 5 Level-0 table #13: started
+2024/11/17-21:28:44.415 5 Level-0 table #13: 64803 bytes OK
+2024/11/17-21:28:44.423 5 Delete type=0 #9

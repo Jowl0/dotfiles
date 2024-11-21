@@ -1,0 +1,9 @@
+2024/11/17-21:23:36.346 4 Reusing MANIFEST /home/jwl/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/17-21:23:36.350 4 Recovering log #3
+2024/11/17-21:23:36.350 4 Reusing old log /home/jwl/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2024/11/17-21:24:51.583 5 Level-0 table #5: started
+2024/11/17-21:24:51.590 5 Level-0 table #5: 95945 bytes OK
+2024/11/17-21:24:51.597 5 Delete type=0 #3
+2024/11/17-21:25:44.369 7 Level-0 table #7: started
+2024/11/17-21:25:44.384 7 Level-0 table #7: 56927 bytes OK
+2024/11/17-21:25:44.393 7 Delete type=0 #4

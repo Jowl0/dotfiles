@@ -1,0 +1,7 @@
+[Added Associations]
+image/jpeg=viewnior-12.desktop;viewnior-10.desktop;viewnior-8.desktop;viewnior-6.desktop;viewnior-5.desktop;viewnior-3.desktop;viewnior-2.desktop;
+image/png=viewnior-11.desktop;viewnior-9.desktop;viewnior-7.desktop;viewnior-4.desktop;
+
+[Default Applications]
+image/jpeg=viewnior-12.desktop;
+image/png=viewnior-11.desktop;

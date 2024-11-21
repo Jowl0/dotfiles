@@ -1,0 +1,71 @@
+* {
+  font-family: JetBrainsMonoNerdFontMono;
+  font-size: 24px;
+  transition-property: background-color, color, box-shadow;
+  transition-duration: 0.3s;
+}
+
+window {
+  background-color: rgba(0, 0, 0, 0.8); /* Fondo negro con opacidad del 80% */
+}
+
+button {
+  color: #ffffff; /* Texto blanco */
+  background-color: rgba(0, 0, 0, 0.8); /* Fondo negro con opacidad 80% */
+  border-style: solid;
+  border-width: 3px;
+  border-color: #ffffff; /* Bordes blancos */
+  border-radius: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 15%;
+  margin: 15px;
+  transition: background-color 0.3s, color 0.3s, box-shadow 0.3s; /* Asegura que la transición sea suave */
+}
+
+/* Efecto hover */
+button:hover {
+  background-color: #ffffff; /* Fondo blanco */
+  color: #000000; /* Texto negro */
+  box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.8); /* Sombra blanca */
+}
+
+/* Efecto active */
+button:active {
+  background-color: #dcdcdc; /* Fondo gris claro */
+  color: #000000; /* Texto negro */
+  box-shadow: none; /* Elimina la sombra al hacer clic */
+}
+
+/* Efecto focus */
+button:focus {
+  background-color: #ffffff; /* Fondo blanco */
+  color: #000000; /* Texto negro */
+  outline: none; /* Elimina el contorno predeterminado */
+  box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.8); /* Sombra blanca */
+}
+
+/* Establece los iconos */
+#lock {
+  background-image: url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png");
+}
+
+#logout {
+  background-image: url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png");
+}
+
+#suspend {
+  background-image: url("/usr/share/wlogout/icons/suspend.png"), url("/usr/local/share/wlogout/icons/suspend.png");
+}
+
+#hibernate {
+  background-image: url("/usr/share/wlogout/icons/hibernate.png"), url("/usr/local/share/wlogout/icons/hibernate.png");
+}
+
+#shutdown {
+  background-image: url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png");
+}
+
+#reboot {
+  background-image: url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png");
+}
